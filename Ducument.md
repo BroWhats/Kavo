@@ -1,4 +1,4 @@
-# Kavo UI Library by Browhat u fucktards
+# Kavo UI Library
 
 ### Documentation
 #### Update:
